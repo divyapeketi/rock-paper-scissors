@@ -1,4 +1,4 @@
-#Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game
 
 This classic game of Rock-Paper-Scissors is implemented in Python, allowing you to challenge a computer opponent and receive clear feedback on wins, losses, and ties.
 
